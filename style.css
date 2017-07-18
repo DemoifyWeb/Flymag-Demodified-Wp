@@ -1,0 +1,36 @@
+/*
+Theme Name: FlyMag Child
+Theme URI: http://themeisle.com/themes/flymag/
+Template: flymag
+Author: Mishan Sapkota
+Author URI: http://themeisle.com
+Description: Flymag is a responsive magazine theme with a modern look. Flymag lets you use any of the 600+ Google Fonts, provides color options for a lot of the theme elements and also offers you some useful page templates. With Flymag you can easily build your front page magazine-layout using the built in widgets specifically designed for this task.
+Tags: two-columns,right-sidebar,custom-colors,custom-background,custom-menu,featured-images,sticky-post,theme-options,threaded-comments,translation-ready
+Version: 2.0.1.1500301679
+Updated: 2017-07-17 14:27:59
+
+*/
+
+.ticker-info{
+	background-color: #606ae1;
+}
+
+.news-ticker{
+	background-color: #ef163de6;
+}
+
+.main-navigation{
+	background-color: #eaf5fe;
+}
+
+.widget-inner{
+	background-color: #e7efef;
+}
+
+.widget{
+	background-color: #e7efef;
+}
+
+a:focus, a:hover{
+	color: #39f249;
+}
